@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Barber Shop</string>
+    <string name="logo">Logo</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="registrarse">Registrar-se</string>
+    <string name="nao_possui_conta">Não possui conta?</string>
+    <string name="icone_olho">Icone de olho, para senha</string>
+    <string name="title_activity_sing_up">SingUpActivity</string>
+    <string name="ja_possui_conta">Ja possui conta?</string>
+    <string name="fazer_login">Fazer Login</string>
+    <string name="nome_perfil">Nome</string>
+    <string name="registrar">Registrar</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
